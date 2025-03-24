@@ -1,0 +1,90 @@
+[08-Mar-2025 05:37:15 UTC] POST data: Array
+(
+)
+
+[08-Mar-2025 05:37:15 UTC] FILES data: Array
+(
+)
+
+[08-Mar-2025 05:37:15 UTC] ERROR: Please provide packageName
+[08-Mar-2025 05:37:15 UTC] PHP Warning:  Undefined variable $filePaths in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 115
+[08-Mar-2025 05:37:15 UTC] PHP Stack trace:
+[08-Mar-2025 05:37:15 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:37:15 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 115
+[08-Mar-2025 05:37:15 UTC] PHP Stack trace:
+[08-Mar-2025 05:37:15 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:42:47 UTC] POST data: Array
+(
+)
+
+[08-Mar-2025 05:42:47 UTC] FILES data: Array
+(
+)
+
+[08-Mar-2025 05:42:47 UTC] ERROR: Please provide packageName
+[08-Mar-2025 05:42:47 UTC] PHP Warning:  Undefined variable $filePaths in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 126
+[08-Mar-2025 05:42:47 UTC] PHP Stack trace:
+[08-Mar-2025 05:42:47 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:42:47 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 126
+[08-Mar-2025 05:42:47 UTC] PHP Stack trace:
+[08-Mar-2025 05:42:47 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:42:48 UTC] POST data: Array
+(
+)
+
+[08-Mar-2025 05:42:48 UTC] FILES data: Array
+(
+)
+
+[08-Mar-2025 05:42:48 UTC] ERROR: Please provide packageName
+[08-Mar-2025 05:42:48 UTC] PHP Warning:  Undefined variable $filePaths in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 126
+[08-Mar-2025 05:42:48 UTC] PHP Stack trace:
+[08-Mar-2025 05:42:48 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:42:48 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 126
+[08-Mar-2025 05:42:48 UTC] PHP Stack trace:
+[08-Mar-2025 05:42:48 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:42:51 UTC] POST data: Array
+(
+)
+
+[08-Mar-2025 05:42:51 UTC] FILES data: Array
+(
+)
+
+[08-Mar-2025 05:42:51 UTC] ERROR: Please provide packageName
+[08-Mar-2025 05:42:51 UTC] PHP Warning:  Undefined variable $filePaths in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 126
+[08-Mar-2025 05:42:51 UTC] PHP Stack trace:
+[08-Mar-2025 05:42:51 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:42:51 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 126
+[08-Mar-2025 05:42:51 UTC] PHP Stack trace:
+[08-Mar-2025 05:42:51 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:45:23 UTC] POST data: Array
+(
+)
+
+[08-Mar-2025 05:45:23 UTC] FILES data: Array
+(
+)
+
+[08-Mar-2025 05:45:23 UTC] ERROR: Please provide packageName
+[08-Mar-2025 05:45:23 UTC] PHP Warning:  Undefined variable $filePaths in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 126
+[08-Mar-2025 05:45:23 UTC] PHP Stack trace:
+[08-Mar-2025 05:45:23 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:45:23 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 126
+[08-Mar-2025 05:45:23 UTC] PHP Stack trace:
+[08-Mar-2025 05:45:23 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:49:22 UTC] POST data: Array
+(
+)
+
+[08-Mar-2025 05:49:22 UTC] FILES data: Array
+(
+)
+
+[08-Mar-2025 05:49:22 UTC] ERROR: Please provide packageName
+[08-Mar-2025 05:49:22 UTC] PHP Warning:  Undefined variable $filePaths in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 111
+[08-Mar-2025 05:49:22 UTC] PHP Stack trace:
+[08-Mar-2025 05:49:22 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
+[08-Mar-2025 05:49:22 UTC] PHP Warning:  foreach() argument must be of type array|object, null given in C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php on line 111
+[08-Mar-2025 05:49:22 UTC] PHP Stack trace:
+[08-Mar-2025 05:49:22 UTC] PHP   1. {main}() C:\wamp64\www\All_FOR_MUSIC\Add_learning_Pacakages.php:0
